@@ -1,6 +1,5 @@
 # **Gianluigi D’Antimi**
 
----
 
 * 🔭 I’m currently working at [DXC Technology](https://dxc.com/)
 * 📫 Reach me: [Linkedin](https://www.linkedin.com/in/gianluigi-dantimi/)
