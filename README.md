@@ -4,7 +4,7 @@
 * 🏢 I’m currently working at:  
 [DXC Technology](https://dxc.com/)
 
-* 📧 Reach me:
+* 📧 Reach me:  
 gianluigi.dantimi@gmail.com
 
 * 🌱 I'm currently learning:  
