@@ -13,8 +13,9 @@ React, Java, Springboot
 * 📚 All of my projects are available at:  
 https://github.com/glg-23
 
-* 💻 Websites created by me:
-https://sites.google.com/view/club-dnalfista/
+* 💻 Websites created by me:  
+https://sites.google.com/view/club-dnalfista/  
+https://sites.google.com/view/glg-23mockup1/home-page
 
 
 * 🌐 Connect with me:  
