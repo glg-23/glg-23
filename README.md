@@ -15,7 +15,7 @@ https://github.com/glg-23
 
 * 💻 Websites created by me:  
 https://sites.google.com/view/club-dnalfista/  
-https://sites.google.com/view/glg-23mockup1/home-page
+https://sites.google.com/view/glg-23mockup1/
 
 
 * 🌐 Connect with me:  
