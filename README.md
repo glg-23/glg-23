@@ -8,12 +8,12 @@
 gianluigi.dantimi@gmail.com
 
 * 🌱 I'm currently learning:  
-React, Java, Springboot
+React, Angular, Java, Springboot
 
 * 📚 All of my projects are available at:  
 https://github.com/glg-23
 
-* 💻 Websites entirely designed and created by me:  
+* 💻 google sites designed and created by me:  
 https://sites.google.com/view/club-dnalfista/  
 https://sites.google.com/view/glg-23mockup1/
 
