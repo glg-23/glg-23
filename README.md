@@ -11,11 +11,11 @@ gianluigi.dantimi@gmail.com
 [Accredible](www.credential.net/profile/gianluigidantimi/) 
 
 * 📚 All of my projects are available at:  
-github.com/glg-23
+[github.com/glg-23](github.com/glg-23) 
 
 * 💻 google sites designed and created by me:  
-sites.google.com/view/club-dnalfista/  
-sites.google.com/view/glg-23mockup1/
+[Club DNAlfista](sites.google.com/view/club-dnalfista/)   
+[Affittacamere](sites.google.com/view/glg-23mockup1/) 
 
 * 🌱 I'm currently learning:  
 React, Angular, Java, Springboot
