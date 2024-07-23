@@ -7,15 +7,15 @@
 * 📧 Reach me:  
 gianluigi.dantimi@gmail.com
 
-* 📜 Credentials wallet:  
-www.credential.net/profile/gianluigidantimi/
+* 📜 Credentials wallet:
+[Accredible](www.credential.net/profile/gianluigidantimi/) 
 
 * 📚 All of my projects are available at:  
-https://github.com/glg-23
+github.com/glg-23
 
 * 💻 google sites designed and created by me:  
-https://sites.google.com/view/club-dnalfista/  
-https://sites.google.com/view/glg-23mockup1/
+sites.google.com/view/club-dnalfista/  
+sites.google.com/view/glg-23mockup1/
 
 * 🌱 I'm currently learning:  
 React, Angular, Java, Springboot
