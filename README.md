@@ -11,7 +11,7 @@ gianluigi.dantimi@gmail.com
 [Accredible](www.credential.net/profile/gianluigidantimi/) 
 
 * 📚 All of my projects are available at:  
-[github.com/glg-23](github.com/glg-23) 
+[github.com/glg-23](https://github.com/glg-23) 
 
 * 💻 google sites designed and created by me:  
 [Club DNAlfista](sites.google.com/view/club-dnalfista/)   
