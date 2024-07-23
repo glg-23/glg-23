@@ -7,7 +7,7 @@
 * 📧 Reach me:  
 gianluigi.dantimi@gmail.com
 
-* 📜 Credentials wallet:
+* 📜 Credentials wallet:  
 [Accredible](www.credential.net/profile/gianluigidantimi/) 
 
 * 📚 All of my projects are available at:  
