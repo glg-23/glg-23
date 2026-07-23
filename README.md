@@ -15,8 +15,8 @@ gianluigi.dantimi@gmail.com
 
 * 💻 google sites designed and created by me:  
 [Club DNAlfista](https://sites.google.com/view/club-dnalfista/)   
-[Casa vacanze](https://sites.google.com/view/glg-23mockup1/)
-[Affittacamere Isola Rossa 🇮🇹](https://sites.google.com/view/rr-isolarossa/)
+[Casa vacanze](https://sites.google.com/view/glg-23mockup1/)   
+[Affittacamere Isola Rossa 🇮🇹](https://sites.google.com/view/rr-isolarossa/)   
 [Affittacamere Isola Rossa 🇬🇧](https://sites.google.com/view/eng-rr-isolarossa/)
 
 * 🌱 I'm currently learning:  
