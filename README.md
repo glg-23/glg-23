@@ -10,12 +10,14 @@ gianluigi.dantimi@gmail.com
 * 📜 Credentials wallet:  
 [Accredible](https://www.credential.net/profile/gianluigidantimi/) 
 
-* 📚 All of my projects are available at:  
+* 📚 My projects are available at:  
 [github.com/glg-23](https://github.com/glg-23) 
 
 * 💻 google sites designed and created by me:  
 [Club DNAlfista](https://sites.google.com/view/club-dnalfista/)   
-[Affittacamere](https://sites.google.com/view/glg-23mockup1/) 
+[Casa vacanze](https://sites.google.com/view/glg-23mockup1/)
+[Affittacamere Isola Rossa 🇮🇹](https://sites.google.com/view/rr-isolarossa/)
+[Affittacamere Isola Rossa 🇬🇧](https://sites.google.com/view/eng-rr-isolarossa/)
 
 * 🌱 I'm currently learning:  
 React, Angular, Java, Springboot
